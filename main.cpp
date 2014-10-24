@@ -10,4 +10,8 @@ cin>>x>>y;
 cout<<"Sum of x and y"<<endl<< x+y<<'\n'
     <<"Difference of x and y"<<endl<< x-y<<'\n'
     <<"X*Y="<<x*y<<'\n';
+cout<<"Sum of x and y"<<endl<< x+y
+    <<"Difference of x and y"<<endl<< x-y
+    <<"X*Y="<<endl<< x/y;
+
 }
