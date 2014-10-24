@@ -1,7 +1,7 @@
 #include <iostream>
 #include <sdt.h>
 using namespace std;
-
+//опнцпюллю ъбкъеряъ свеамни
 int main()
 {
     double x,y;
