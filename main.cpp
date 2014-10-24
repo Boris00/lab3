@@ -8,4 +8,5 @@ int main()
 cout<<"Enter two numbers\n"<<endl;
 cin>>x>>y;
 cout<<"Sum of x and y"<<endl<< x+y;
+cout<<"Difference of x and y"<<endl<< x-y;
 }
