@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     double x,y;
-cout<<"Enter two numbers";
+cout<<"Enter two numbers\n"<<endl;
 cin>>x>>y;
 
 }
